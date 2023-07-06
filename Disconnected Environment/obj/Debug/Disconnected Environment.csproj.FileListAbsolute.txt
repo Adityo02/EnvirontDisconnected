@@ -1,0 +1,14 @@
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\bin\Debug\Disconnected Environment.exe.config
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\bin\Debug\Disconnected Environment.exe
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\bin\Debug\Disconnected Environment.pdb
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected Environment.csproj.AssemblyReference.cache
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected Environment.csproj.SuggestedBindingRedirects.cache
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected_Environment.DataMahasiswa.resources
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected_Environment.DataProdi.resources
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected_Environment.DataStatusMahasiswa.resources
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected_Environment.Form1.resources
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected_Environment.Properties.Resources.resources
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected Environment.csproj.GenerateResource.cache
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected Environment.csproj.CoreCompileInputs.cache
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected Environment.exe
+D:\Semester 4\Pengembangan Aplikasi Basis Data\Disconnected Environment\Disconnected Environment\obj\Debug\Disconnected Environment.pdb
